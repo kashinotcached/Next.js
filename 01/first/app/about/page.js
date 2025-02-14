@@ -8,7 +8,7 @@ const page = () => {
         <li>Full Stack Solution</li>
         <li>File Based Routing</li>
         <li>Additional Features like router from next/navigation</li>
-        <li>Optimized rendering </li>
+        <li>Optimized rendering</li>
       </ul>
     </div>
   )
